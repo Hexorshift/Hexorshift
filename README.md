@@ -5,5 +5,5 @@
 * I like learning new languages 😎
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyleaf&layout=compact)
-![My Github stats](https://github-readme-stats.vercel.app/api?username=zyleaf&show_icons=true&count_private=true&theme=dark)
-![Zyleaf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zyleaf&&layout=compact)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=zyleaf&show_icons=true&count_private=true&theme=dark&theme=dark)
+![Zyleaf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zyleaf&&layout=compact&theme=dark)
