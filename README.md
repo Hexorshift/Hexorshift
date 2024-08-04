@@ -1,3 +1,2 @@
 ## My name is Abu, and welcome to my GitHub profile. 
-
-* I like learning new technologies 😎
+I am an aspiring software engineer trying to get better every day.
